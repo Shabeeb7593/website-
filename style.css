@@ -1,0 +1,87 @@
+
+*{
+
+font-family:montserrat;
+margin:0px;
+}
+.container {
+    overflow: hidden;
+} 
+.body{
+
+
+
+
+
+
+
+
+}
+.section-padding{
+padding:100px;
+
+}
+
+
+.navbarnav{
+display: flex;
+
+}
+.slide{
+
+height:750px ;
+
+ 
+}
+.about img{
+
+height:500px ;
+
+}
+
+.container {
+  overflow: hidden; 
+
+
+
+
+
+}
+.imges{
+/* background-color:#Ffff ; */
+
+
+
+
+}
+@media only screen and (max-width:767px){
+ .navbar-nav{
+text-align:center;
+
+ }
+ .carousel-caption h5{
+font-size:17px;
+
+ }
+ .carousel-caption p{
+
+width:100px;
+line-height:1.6;
+font-size:12px;
+
+
+
+
+ }
+
+
+  
+
+
+
+
+
+
+
+
+
